@@ -230,8 +230,19 @@ button:focus {
 	transition: all 0.5s;
 }
 
-.cuia {
-	background-image: url(/assets/images/cuia.svg);
+.brand {
+	max-width: 60px;
+	display: flex;
+	align-items: self-end;
+}
+
+.brand_text {
+	float: none;
+}
+
+img.cuia {
+	display: inline;
+	color: white;
 }
 
 .navbar-default .navbar-brand {
@@ -1176,8 +1187,14 @@ button:focus {
 
 @media (max-width: 480px) {
 
+	
+
 	.navbar-brand img {
 		width: 150px;
+	}
+
+	img.cuia {
+		width: 60px;
 	}
 
 	#mu-header {

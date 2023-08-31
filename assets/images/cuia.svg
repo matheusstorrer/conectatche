@@ -1,79 +1,33 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.0"
-   width="735.000000pt"
-   height="848.000000pt"
-   viewBox="0 0 735.000000 848.000000"
-   preserveAspectRatio="xMidYMid meet"
-   id="svg2"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="cuia_00.svg">
-  <defs
-     id="defs16" />
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1301"
-     inkscape:window-height="744"
-     id="namedview14"
-     showgrid="false"
-     inkscape:zoom="0.56320755"
-     inkscape:cx="459.375"
-     inkscape:cy="530"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <metadata
-     id="metadata4">
-Created by potrace 1.11, written by Peter Selinger 2001-2013
-<rdf:RDF>
-  <cc:Work
-     rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type
-       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:title />
-  </cc:Work>
-</rdf:RDF>
-</metadata>
-  <g
-     id="g3763"
-     transform="matrix(1.4991535,0,0,1.4331636,-90.893524,-167.05522)"
-     style="fill:#000000">
-    <g
-       style="fill:#000000;stroke:none"
-       id="g6"
-       transform="matrix(0.09582625,0.02858899,0.02858899,-0.09582625,-112.20321,744.1533)">
-      <path
-         style="fill:#000000"
-         sodipodi:nodetypes="ccccccccsccccccscssccsccssscccccccccccccccccccscccccccsccccsc"
-         inkscape:connector-curvature="0"
-         id="path8"
-         d="m 4120,7650 c -99,-58 -191,-150 -237,-237 -17,-32 -65,-152 -107,-268 -41,-115 -91,-254 -112,-307 l -37,-97 c -164.2131,-594.7851 -0.9403,-9.2741 -167,-584 0,-14 -20,-71 -46,-128 -39,-89 -112,-270 -146,-361 -6,-16 -14,-28 -19,-28 -5,0 -6,-7 -3,-15 4,-10 -3,-16 -23,-20 -95,-21 -248,-63 -308,-84 -16,-6 -70,-20 -120,-31 -120,-27 -200,-49 -260,-70 -27,-9 -138,-45 -245,-80 -107,-34 -204,-66 -215,-71 -11,-5 -53,-20 -94,-34 -40,-13 -93,-36 -117,-49 -24,-13 -57,-27 -74,-31 -17,-4 -33,-12 -36,-18 -2,-7 -17,-12 -33,-13 -27,-1 -199,-79 -211,-95 -3,-4 -22,-11 -42,-17 -21,-6 -51,-20 -67,-31 -16,-12 -32,-21 -37,-21 -10,0 -114,-70 -136,-92 -10,-10 -23,-18 -30,-18 -6,0 -35,-12 -65,-26 -108,-53 -206,-184 -234,-313 -33,-154 57,-319 218,-397 49,-24 71,-28 197,-35 80,-4 168,-14 202,-24 108,-30 170,-107 211,-261 23,-87 26,-119 27,-264 0,-111 -5,-199 -16,-270 -70,-428 -82,-544 -74,-685 14,-253 99,-441 285,-625 115,-115 201,-177 351,-254 195,-99 376,-161 831,-280 -262.4163,192.6049 -165.5319,126.7978 -544,315 -296,148 -518,386 -597,640 -61,198 -69,337 -44,764 15,272 16,345 6,444 -24,241 -75,380 -191,518 -70,84 -132,116 -280,147 -138,29 -220,62 -270,109 -38,36 -71,100 -71,137 0,35 32,100 69,143 64,72 258,180 501,277 183,73 646,224 895,291 61,17 133,36 160,44 123,33 708,179 800,199 39,8 144,31 235,51 157.2718,72.0243 135.5747,236.0257 -39,251 -112,-26 -212,-46 -221,-46 -22,0 -18,15 65,235 123.5888,542.6011 135.7146,596.5005 168,762 8,15 27,87 41,158 75,360 122,478 262,648 132,161 158,197 142,197 -7,0 -51,-22 -98,-50 z" />
-    </g>
-    <path
-       transform="matrix(0.90653815,0.17377733,-0.32565108,0.72069803,-170.26848,-130.8584)"
-       d="m 788.55753,290.34036 c 0,22.77168 -9.23004,41.23177 -20.61588,41.23177 -11.38584,0 -20.61588,-18.46009 -20.61588,-41.23177 0,-22.77167 9.23004,-41.23176 20.61588,-41.23176 11.38584,0 20.61588,18.46009 20.61588,41.23176 z"
-       sodipodi:ry="41.231766"
-       sodipodi:rx="20.615883"
-       sodipodi:cy="290.34036"
-       sodipodi:cx="767.94165"
-       id="path2993"
-       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       sodipodi:type="arc" />
-  </g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" inkscape:version="0.48.4 r9939" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 735 848"
+	 style="enable-background:new 0 0 735 848;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+</style>
+<sodipodi:namedview  bordercolor="#666666" borderopacity="1" gridtolerance="10" guidetolerance="10" id="namedview14" inkscape:current-layer="svg2" inkscape:cx="459.375" inkscape:cy="530" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-height="744" inkscape:window-maximized="1" inkscape:window-width="1301" inkscape:window-x="65" inkscape:window-y="24" inkscape:zoom="0.56320755" objecttolerance="10" pagecolor="#ffffff" showgrid="false">
+	</sodipodi:namedview>
+<g id="g3763" transform="matrix(1.4991535,0,0,1.4331636,-90.893524,-167.05522)">
+	<g id="g6" transform="matrix(0.09582625,0.02858899,0.02858899,-0.09582625,-112.20321,744.1533)">
+		
+			<path id="path8" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccccsccccccscssccsccssscccccccccccccccccccscccccccsccccsc" class="st0" d="
+			M4120,7650c-99-58-191-150-237-237c-17-32-65-152-107-268c-41-115-91-254-112-307l-37-97c-164.2-594.8-0.9-9.3-167-584
+			c0-14-20-71-46-128c-39-89-112-270-146-361c-6-16-14-28-19-28c-5,0-6-7-3-15c4-10-3-16-23-20c-95-21-248-63-308-84
+			c-16-6-70-20-120-31c-120-27-200-49-260-70c-27-9-138-45-245-80c-107-34-204-66-215-71c-11-5-53-20-94-34c-40-13-93-36-117-49
+			c-24-13-57-27-74-31c-17-4-33-12-36-18c-2-7-17-12-33-13c-27-1-199-79-211-95c-3-4-22-11-42-17c-21-6-51-20-67-31
+			c-16-12-32-21-37-21c-10,0-114-70-136-92c-10-10-23-18-30-18c-6,0-35-12-65-26c-108-53-206-184-234-313c-33-154,57-319,218-397
+			c49-24,71-28,197-35c80-4,168-14,202-24c108-30,170-107,211-261c23-87,26-119,27-264c0-111-5-199-16-270c-70-428-82-544-74-685
+			c14-253,99-441,285-625c115-115,201-177,351-254c195-99,376-161,831-280c-262.4,192.6-165.5,126.8-544,315
+			c-296,148-518,386-597,640c-61,198-69,337-44,764c15,272,16,345,6,444c-24,241-75,380-191,518c-70,84-132,116-280,147
+			c-138,29-220,62-270,109c-38,36-71,100-71,137c0,35,32,100,69,143c64,72,258,180,501,277c183,73,646,224,895,291
+			c61,17,133,36,160,44c123,33,708,179,800,199c39,8,144,31,235,51c157.3,72,135.6,236-39,251c-112-26-212-46-221-46
+			c-22,0-18,15,65,235c123.6,542.6,135.7,596.5,168,762c8,15,27,87,41,158c75,360,122,478,262,648c132,161,158,197,142,197
+			C4211,7700,4167,7678,4120,7650z"/>
+	</g>
+	
+		<path id="path2993" sodipodi:cx="767.94165" sodipodi:cy="290.34036" sodipodi:rx="20.615883" sodipodi:ry="41.231766" sodipodi:type="arc" class="st0" d="
+		M450,215.4c-7.4,16.4-21.8,28.1-32.1,26.1c-10.3-2-12.7-16.9-5.3-33.3s21.8-28.1,32.1-26.1C455.1,184.1,457.5,199,450,215.4z"/>
+</g>
 </svg>
