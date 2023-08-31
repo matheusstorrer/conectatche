@@ -231,8 +231,7 @@ button:focus {
 }
 
 .cuia {
-	width: 100%;
-	height: auto;
+	background-image: url(/assets/images/cuia.svg);
 }
 
 .navbar-default .navbar-brand {
